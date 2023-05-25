@@ -1,0 +1,14 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+- project: 내노래방책
+  role: 노래방 수록곡 검색 앱
+  duration: 2022.10 &mdash; 현재
+  url: "https://github.com/maratangsoft/my-karaoke-book-compose"
+  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+
+- project: 디코챗
+  role: FCM 푸시메시지를 활용한 실시간 채팅 앱
+  duration: 2022.11 &mdash; 2022.12
+  url: "https://github.com/maratangsoft/DicoChat"
+  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.

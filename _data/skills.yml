@@ -1,0 +1,9 @@
+# Skills
+- skill: 유니티 with C#
+  description: <ul class="resume-item-list"><li>UGUI 및 동적리스트를 활용한 인벤토리 작성</li><li>스크립트 상에서의 게임오브젝트 제어</li><li>안드로이드 앱 빌드</li></ul>
+
+- skill: 안드로이드 with Kotlin
+  description: <ul class="resume-item-list"><li>Compose로 코드 기반 UI 작성</li><li>Coroutine을 이용한 비동기 작업</li><li>OkHttp, Retrofit을 이용한 네트워크 작업</li><li>StateFlow, ViewModel을 이용한 MVVM 아키텍처 구현</li></ul>
+
+- skill: 협업 툴
+  description: <ul class="resume-item-list"><li>Git, GitHub, Slack, Redmine, Hiworks, Trello</li></ul>
