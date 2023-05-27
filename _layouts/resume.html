@@ -59,8 +59,15 @@
         {% for job in site.data.experience %}
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
-          <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
-          <p class="resume-item-copy">{{ job.summary }}</p>
+          <h4 class="resume-item-details" itemprop="description">{{ job.duration }}</h4>
+
+          {% for position in site.data.gamepub %}
+          <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+            <h4 class="resume-item-details" itemprop="description">{{ position.position }}</h4>
+            <p class="resume-item-copy">{{ position.summary }}</p>
+          </div>
+          {% endfor %}
+
         </div><!-- end of resume-item -->
         {% endfor %}
 
@@ -76,11 +83,10 @@
           <h2>역량</h2>
         </header>
 
-        {% for recognition in site.data.recognitions %}
+        {% for ability in site.data.recognitions %}
         <div class="resume-item">
-          <h3 class="resume-item-title" itemprop="award">{{ recognition.award }}</h3>
-          <h4 class="resume-item-details">{{ recognition.organization }} &bull; {{ recognition.year }}</h4>
-          <p class="resume-item-copy">{{ recognition.summary }}</p>
+          <h3 class="resume-item-title" itemprop="award">{{ ability.ability }}</h3>
+          <p class="resume-item-copy">{{ ability.summary }}</p>
         </div>
         {% endfor %}
 
