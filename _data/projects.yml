@@ -1,14 +1,20 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+- project: maratang-http-client
+  role: 카드 수집 게임의 캐릭터 목록 UI
+  duration: 2023.06
+  url: "https://github.com/maratangsoft/maratang-http-client"
+  description: <ul class="resume-item-list"><li>UnityWebRequest</li><li>Unity Coroutine</li><li>C# async/await</li><li>프리팹을 이용한 동적 그리드</li></ul>
+
+- project: ugui-chara-list
+  role: 카드 수집 게임의 캐릭터 목록 UI 구현 연습
+  duration: 2023.06
+  url: "https://github.com/maratangsoft/ugui-chara-list"
+  description: <ul class="resume-item-list"><li>UGUI</li><li>TextMeshPro</li><li>재사용 스크롤뷰</li><li>프리팹을 이용한 동적 그리드</li></ul>
+
 - project: 내노래방책
   role: 노래방 수록곡 검색 앱
-  duration: 2022.10 &mdash; 현재
-  url: "https://github.com/maratangsoft/my-karaoke-book-compose"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
-
-- project: 디코챗
-  role: FCM 푸시메시지를 활용한 실시간 채팅 앱
-  duration: 2022.11 &mdash; 2022.12
-  url: "https://github.com/maratangsoft/DicoChat"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  duration: 2022.10 &mdash; 2022.12
+  url: "https://github.com/maratangsoft/my-karaoke-book"
+  description: <ul class="resume-item-list"><li>RecyclerView</li><li>Gson</li><li>Jsoup</li><li>OkHttp + Retrofit</li><li><a href="https://github.com/maratangsoft/my-karaoke-book-compose">Compose + MVVM 적용하여 리메이크 중</a></li></ul>
