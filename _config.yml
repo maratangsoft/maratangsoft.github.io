@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "최 종 환"
-resume_title:                   "유니티 게임 클라이언트 개발자가 되고픈 신입"
+resume_title:                   "안드로이드에 친숙한 유니티 게임 클라이언트 개발자"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "maratangsoft@gmail.com"
