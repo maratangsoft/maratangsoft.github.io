@@ -1,11 +1,11 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-- project: maratang-http-client
-  role: 카드 수집 게임의 캐릭터 목록 UI
+- project: maratang-http-client-for-unity
+  role: UnityWebRequest를 간단하게 활용하기 위한 라이브러리
   duration: 2023.06
-  url: "https://github.com/maratangsoft/maratang-http-client"
-  description: <ul class="resume-item-list"><li>UnityWebRequest</li><li>Unity Coroutine</li><li>C# async/await</li><li>프리팹을 이용한 동적 그리드</li></ul>
+  url: "https://github.com/maratangsoft/maratang-http-client-for-unity"
+  description: <ul class="resume-item-list"><li>UnityWebRequest</li><li>Unity Coroutine</li><li>C# async/await</li><li>Unity JsonUtility</li></ul>
 
 - project: ugui-chara-list
   role: 카드 수집 게임의 캐릭터 목록 UI 구현 연습
@@ -14,7 +14,7 @@
   description: <ul class="resume-item-list"><li>UGUI</li><li>TextMeshPro</li><li>재사용 스크롤뷰</li><li>프리팹을 이용한 동적 그리드</li></ul>
 
 - project: 내노래방책
-  role: 노래방 수록곡 검색 앱
+  role: 노래방 수록곡 검색 및 즐겨찾기 앱
   duration: 2022.10 &mdash; 2022.12
-  url: "https://github.com/maratangsoft/my-karaoke-book"
-  description: <ul class="resume-item-list"><li>RecyclerView</li><li>Gson</li><li>Jsoup</li><li>OkHttp + Retrofit</li><li><a href="https://github.com/maratangsoft/my-karaoke-book-compose">Compose + MVVM 적용하여 리메이크 중</a></li></ul>
+  url: "https://github.com/maratangsoft/MyKaraokeBook"
+  description: <ul class="resume-item-list"><li>재사용 스크롤뷰 - RecyclerView</li><li>네트워크 - OkHttp + Retrofit</li><li>파싱 - Gson, Jsoup</li><li>로컬 DB - SQLite</li><li>지도 - 네이버 맵 API</li><li><a href="https://github.com/maratangsoft/my-karaoke-book-compose">Compose + MVVM 적용하여 리메이크 중</a></li></ul>

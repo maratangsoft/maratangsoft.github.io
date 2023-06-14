@@ -13,7 +13,7 @@
 
         <!-- You can turn off the avatar in _config.yml by setting to false -->
         {% if site.resume_avatar == 'true' %}
-        <img src="images/avatar.jpg" alt="my photo" class="avatar no-print" itemprop="image">
+        <img src="images/me.jpg" alt="my photo" class="avatar no-print" itemprop="image">
         {% endif %}
 
         <!-- Your name is defined in the _config.yml file -->
@@ -75,15 +75,15 @@
       <!-- end Experience -->
       {% endif %}
 
-      {% if site.resume_section_recognition %}
-      <!-- begin Recognition -->
+      {% if site.resume_section_abilities %}
+      <!-- begin Abilities -->
       <section class="content-section">
 
         <header class="section-header">
           <h2>역량</h2>
         </header>
 
-        {% for ability in site.data.recognitions %}
+        {% for ability in site.data.abilities %}
         <div class="resume-item">
           <h3 class="resume-item-title" itemprop="award">{{ ability.ability }}</h3>
           <p class="resume-item-copy">{{ ability.summary }}</p>

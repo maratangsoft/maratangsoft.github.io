@@ -1,19 +1,19 @@
 # Degree
 - degree: Junior Programmer
-  uni: <a href="https://learn.unity.com/pathways">Unity Learn</a>
+  uni: <a href="https://learn.unity.com/">Unity Learn</a>
   year: 2023.04 &mdash; 2023.06
   #   - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+  summary: <ul class="resume-item-list"><li>유니티 공식에서 개설한 게임 제작 인터넷 강좌</li><li><a href="https://learn.unity.com/u/63e124f8edbc2a1f241cb87c?tab=activity">학습 내용 요약</a></li></ul>
 
 - degree: 안드로이드 네이티브&하이브리드앱 개발자 양성
   uni: <a href="http://www.mrhi.or.kr/">미래IT캠퍼스</a>
   year: 2022.06 &mdash; 2022.12
   award: 최우수 훈련생 상
   #   - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+  summary: <ul class="resume-item-list"><li>안드로이드 네이티브 앱의 기획·개발·출시·유지보수 전 과정</li><li>공공API, 구글, Firebase, 카카오, 네이버 API 활용</li><li>팀 프로젝트를 통한 협업 실습</li></ul>
 
 - degree: 경영학 학사
   uni: 고려대학교
   year: 2009.03 &mdash; 2019.02
   # award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+  summary: 
