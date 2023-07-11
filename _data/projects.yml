@@ -1,13 +1,19 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-- project: maratang-http-client-for-unity
+- project: Steak Shooter
+  role: 간단한 탑다운 슈팅 게임
+  duration: 2023.07
+  url: "https://github.com/maratangsoft/unity-tp-steak-shooter"
+  description: 유니티 프로젝트<br><ul class="resume-item-list"><li>Object Pool</li><li>Unity Coroutine</li><li>Input Manager</li><li>OnTriggerEnter()를 이용한 충돌 판정</li></ul>
+
+- project: HTTP Client for Unity
   role: UnityWebRequest를 간단하게 활용하기 위한 라이브러리
   duration: 2023.06
   url: "https://github.com/maratangsoft/maratang-http-client-for-unity"
-  description: 유니티 에셋<br><ul class="resume-item-list"><li>UnityWebRequest</li><li>Unity Coroutine</li><li>C# async/await</li><li>Unity JsonUtility</li></ul>
+  description: 유니티 프로젝트<br><ul class="resume-item-list"><li>UnityWebRequest</li><li>Unity Coroutine</li><li>C# async/await</li><li>Unity JsonUtility</li></ul>
 
-- project: ugui-chara-list
+- project: UGUI Character List
   role: 카드 수집형 게임의 캐릭터 목록 UI 구현 연습
   duration: 2023.06
   url: "https://github.com/maratangsoft/ugui-chara-list"
